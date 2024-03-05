@@ -3,7 +3,7 @@ import time
 
 from openai import OpenAI
 
-os.environ['OPENAI_API_KEY'] = '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'
+os.environ['OPENAI_API_KEY'] = 'APIキー'
 client = OpenAI()
 
 # ファイルアップロード
