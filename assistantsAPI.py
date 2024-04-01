@@ -3,6 +3,7 @@ import time
 
 from openai import OpenAI
 
+//削除しないように仮修正
 os.environ['OPENAI_API_KEY'] = 'APIキー'
 client = OpenAI()
 
